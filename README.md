@@ -22,4 +22,4 @@ Based on Alpine Linux also includes:
 * wget
 
 
-*[Dolon](https://en.wikipedia.org/wiki/Dolon_(mythology))*, son of Eumedes and brother to five sisters, clad in wolf skin was sent to by the Trojan to spy on the Greeks.
+*[Dolon](https://en.wikipedia.org/wiki/Dolon_(mythology))*, son of Eumedes and brother to five sisters, clad in wolf skin was sent to by the Trojans to spy on the Greeks.
